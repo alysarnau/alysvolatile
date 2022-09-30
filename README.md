@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alysvolatile - Alys for short!
 - 👀 I’m interested in indie game design, app design, and improving accessibility.
 - 🌱 I'm a full stack developer that's always learning new things!
-- 💞️ I’m looking to collaborate on visual novels, silly projects, and basic projects to help me expand my toolbox.
+- 💞️ I’m looking to collaborate on visual novels, silly projects, and meme generators of all complexity.
 - 📫 How to reach me: please shoot me an email at alysarnau@gmail.com.
 
 <!---
